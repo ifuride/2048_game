@@ -20,7 +20,7 @@ The link to the original game:
 - [2048](https://play2048.co/)
 
 The link to the implemented game:
-- [DEMO LINK](https://<your_account>.github.io/js_2048_game/)
+- [DEMO LINK]( https://ifuride.github.io/2048_game/)
 
 Technologies and languages used in the project:
 - JavaScript.
